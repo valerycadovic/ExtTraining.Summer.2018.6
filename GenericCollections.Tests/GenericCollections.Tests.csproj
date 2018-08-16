@@ -48,8 +48,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LogSet_Tests.cs" />
+    <Compile Include="Set_Tests_Int.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Set_Tests_Ref.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config">
